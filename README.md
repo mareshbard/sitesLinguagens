@@ -10,5 +10,5 @@
   https://www.w3schools.com/
 
 
- </a> <img src="https://github.com/mareshbard/mareshbard/assets/125154278/f2f33cab-60f6-41da-ab82-27c68292ff10" alt="siwft" width="40" height="40"/> </a> <
-  ![image](https://github.com/mareshbard/mareshbard/assets/125154278/f2f33cab-60f6-41da-ab82-27c68292ff10)
+ </a> <img src="https://github.com/mareshbard/mareshbard/assets/125154278/f2f33cab-60f6-41da-ab82-27c68292ff10" alt="siwft" width="40" height="40"/> </a> 
+
