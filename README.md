@@ -1,4 +1,4 @@
-# Sites de sites com exercícios para praticar linguagens de programação: (EM CONSTRUÇÃO)
+# Sites com exercícios para praticar linguagens de programação: (EM CONSTRUÇÃO)
 
 - LINGUAGENS DIVERSAS:
   
